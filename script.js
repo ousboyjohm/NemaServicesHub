@@ -1,4 +1,4 @@
-document.addEventListener('DOMContentLoaded', function() {
+ document.addEventListener('DOMContentLoaded', function() {
     // Handle the Contact Form submission (on contact.html)
     const contactForm = document.getElementById('contactForm');
     if (contactForm) { // Check if the form exists on the current page
